@@ -6,3 +6,4 @@ bollywood
 instrumental
 lofi
 metallic
+get the password from credentials.txt
